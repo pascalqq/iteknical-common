@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.iteknical</groupId>
+  <artifactId>fusion-user-common</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200120.095627</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20200120095627</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20200120.095627-2</value>
+        <updated>20200120095627</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20200120.095627-2</value>
+        <updated>20200120095627</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
