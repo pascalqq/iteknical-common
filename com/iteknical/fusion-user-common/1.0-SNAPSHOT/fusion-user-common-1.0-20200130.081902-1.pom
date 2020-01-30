@@ -20,40 +20,6 @@
 	</properties>
 
 	<dependencies>
-		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
-		<dependency>
-			<groupId>org.apache.commons</groupId>
-			<artifactId>commons-lang3</artifactId>
-			<version>3.9</version>
-		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-collections4 -->
-		<dependency>
-			<groupId>org.apache.commons</groupId>
-			<artifactId>commons-collections4</artifactId>
-			<version>4.3</version>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
-		<dependency>
-			<groupId>com.alibaba</groupId>
-			<artifactId>fastjson</artifactId>
-			<version>1.2.54</version>
-		</dependency>
-
-		<!-- HttpClient -->
-		<dependency>
-			<groupId>org.apache.httpcomponents</groupId>
-			<artifactId>httpclient</artifactId>
-			<version>4.5.11</version>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
-		<dependency>
-			<groupId>com.google.guava</groupId>
-			<artifactId>guava</artifactId>
-			<version>27.0.1-jre</version>
-		</dependency>
-
 		<dependency>
 			<groupId>com.iteknical</groupId>
 			<artifactId>iteknical-common</artifactId>
@@ -74,6 +40,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.1</version>
 				<configuration>
 					<source>8</source>
 					<target>8</target>
