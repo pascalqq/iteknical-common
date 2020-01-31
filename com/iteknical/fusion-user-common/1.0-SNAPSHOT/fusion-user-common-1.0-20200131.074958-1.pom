@@ -19,7 +19,25 @@
 		<github.global.server>github</github.global.server>
 	</properties>
 
+	<repositories>
+		<repository>
+			<id>iteknical-common-mvn-repo</id>
+			<url>https://raw.github.com/pascalqq/iteknical-common/mvn-repo-iteknical-common/</url>
+			<snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+			</snapshots>
+		</repository>
+	</repositories>
+	
 	<dependencies>
+		<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+			<version>2.2.2.RELEASE</version>
+		</dependency>
+
 		<dependency>
 			<groupId>com.iteknical</groupId>
 			<artifactId>iteknical-common</artifactId>
