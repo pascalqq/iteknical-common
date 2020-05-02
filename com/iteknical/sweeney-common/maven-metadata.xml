@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.iteknical</groupId>
+  <artifactId>sweeney-common</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200502111441</lastUpdated>
+  </versioning>
+</metadata>
