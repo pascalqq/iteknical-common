@@ -28,22 +28,6 @@
                 <updatePolicy>always</updatePolicy>
             </snapshots>
         </repository>
-        <repository>
-            <id>fusion-user-mvn-repo</id>
-            <url>https://raw.github.com/pascalqq/iteknical-common/mvn-repo-fusion-user/</url>
-            <snapshots>
-                <enabled>true</enabled>
-                <updatePolicy>always</updatePolicy>
-            </snapshots>
-        </repository>
-        <repository>
-            <id>fusion-message-mvn-repo</id>
-            <url>https://raw.github.com/pascalqq/iteknical-common/mvn-repo-fusion-message/</url>
-            <snapshots>
-                <enabled>true</enabled>
-                <updatePolicy>always</updatePolicy>
-            </snapshots>
-        </repository>
     </repositories>
 
     <dependencies>
